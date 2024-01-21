@@ -1,0 +1,3 @@
+[ES] Proyecto realizado en grupo con mis compañeros Diego Forniés e Iker Rabanal para la asignatura de Aprendizaje Automático y Redes Neuronales. El objetivo es crear modelos de aprendizaje automático, principalemente basados en Redes Neuronales, para hacer predicciones de las acciones en las que piensan los usuarios que están conectados a una interfaz cerebro-computador.
+
+[EN] Project carried out in a group with my colleagues Diego Forniés and Iker Rabanal for the Machine Learning and Neural Networks course. The goal is to create machine learning models, primarily based on Neural Networks, to make predictions about the actions that users connected to a brain-computer interface are contemplating.
